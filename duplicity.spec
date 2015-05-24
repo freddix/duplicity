@@ -1,11 +1,11 @@
 Summary:	Utility for encrypted, bandwidth-efficient backups using the rsync algorithm
 Name:		duplicity
-Version:	0.6.25
+Version:	0.6.26
 Release:	1
 License:	GPL v2
 Group:		Applications/Archiving
 Source0:	http://code.launchpad.net/duplicity/0.6-series/%{version}/+download/%{name}-%{version}.tar.gz
-# Source0-md5:	bf5aa7f09f8c96e732dd870c0abf5bbf
+# Source0-md5:	7c85e63f738761456b43feaa5931ba9a
 URL:		http://www.nongnu.org/duplicity/
 BuildRequires:	python-devel
 BuildRequires:	librsync-devel
